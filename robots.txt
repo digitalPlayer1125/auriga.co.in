@@ -1,0 +1,10 @@
+# /robots.txt for auriga.co.in
+User-agent: *
+Sitemap: http://auriga.co.in/
+Sitemap: http://ail.auriga.co.in/Auriga-Care.html
+Sitemap: http://ail.auriga.co.in/Auriga-Agro.html
+Sitemap: http://ail.auriga.co.in/Auriga-Design.html
+Sitemap: http://ail.auriga.co.in/Auriga-Literature.html
+Sitemap: http://ail.auriga.co.in/MyDigiGaon.html
+Sitemap: http://ail.auriga.co.in/Divyaang.html
+Allow: /index.html
