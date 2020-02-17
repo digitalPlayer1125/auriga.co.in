@@ -7,7 +7,6 @@ This repo contains the code of the following:
 |Directory               |Component|
 |------------------------|-----------------------------------------------|
 |[../index.html]         |*The homepage index.html file.*|
-|[../mobile.html]        |*The homepage mobile.html, for the mobile view!*|
 
 
 ## Contributing
