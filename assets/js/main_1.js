@@ -69,18 +69,6 @@ $(document).ready(function(){
 
     setTimeout(
         ()=>{
-            WebFont.load({
-                google: {
-                    families: ['Poppins:300,400,500,700']
-                }
-            });
-            // console.log("HI");
-            document.elementFromPoint(0, 0).click();
-        }, 500
-    );
-
-    setTimeout(
-        ()=>{
             $("#EnerImage").attr('src', '../img/Energy-Auriga.webp');
             $("#FinaImage").attr('src', '../img/Finance-Auriga.webp');
             $("#InovImage").attr('src', '../img/Innovation-Auriga.webp');
